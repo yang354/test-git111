@@ -8,7 +8,7 @@ package com.yyyz.test;
 public class test11 {
     public static void main(String[] args) {
         // 原始字符串
-        String input = "id, count, capacity, data_time, type, create_time, update_time";
+        String input = "id, count, capacity,    data_time, type, create_time, update_time";
 
         // 将字符串按逗号分割成数组
         String[] parts = input.split(", ");
