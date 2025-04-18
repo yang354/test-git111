@@ -12,6 +12,7 @@ public class test11 {
 
         // 将字符串按逗号分割成数组
         String[] parts = input.split(", ");
+        String[] parts2 = input.split(", ");
 
         // 使用 StringBuilder 来构建最终的字符串
         StringBuilder result = new StringBuilder();
