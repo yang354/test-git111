@@ -14,7 +14,7 @@ public class test11 {
         String[] parts = input.split(", ");
         String[] parts2 = input.split(", ");
 
-        // 使用 StringBuilder 来构建最终的字符串
+        // 使用 StringBuilder 来构建最终的字符串45677
         StringBuilder result = new StringBuilder();
 
         for (String part : parts) {
